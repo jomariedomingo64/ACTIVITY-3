@@ -1,0 +1,41 @@
+body {
+    background-image: url(HAHA.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #08e9c3;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  .calendar-container {
+    background: rgba(0, 0, 0, 0.7); 
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px auto;
+    max-width: 1200px;
+  }
+  .table {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    color: #fff;
+  }
+  .table th, .table td {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    text-align: center;
+    padding: 10px;
+  }
+  .table th {
+    background: rgba(0, 0, 0, 0.5);
+  }
+  .table td {
+    background: rgba(0, 0, 0, 0.3);
+  }
+  .rainbow-text {
+    font-size: 20rem;
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+
